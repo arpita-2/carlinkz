@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-image: linear-gradient(
+    134.6deg,
+    rgba(201, 37, 107, 1) 15.4%,
+    rgba(116, 16, 124, 1) 74.7%
+  );
+  color: wheat;
+}
+
+footer {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: black;
+  margin-top: 44vh;
+  padding: 0.25rem;
+}
